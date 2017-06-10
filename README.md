@@ -4,11 +4,15 @@
 
 This notebook represents a portion of my Ph.D. research in statistical post-processing of continuous weather variables with Bayesian inference and Markov chain Monte Carlo methods. A principle aim is to establish the utility of the multivariate Bayesian approach to ensemble model output statistics (EMOS) with an adaptive, block-wise variant of the Metropolis algorithm as a computationally economical alternative to traditional ensemble prediction systems (EPS). It may also be used to generate probabilistic forecasts for response variables not represented in the model's predictor variables.
 
-[Full Model Code](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/NPSMDL_WxC.ipynb)
+### Current Notebooks
 
-[Posterior Inference](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/NPSMDL_WxC.ipynb)
+  - <a href="https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/NPSMDL_WxC.ipynb" target="_blank">Full Model Code</a>
 
-[Metropolis Sampler](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/NPSMDL_WxC.ipynb)
+### Deprecated Notebooks
+
+  - <a href="https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/NPSMDL_WxC.ipynb" target="_blank">Posterior Inference</a>
+
+  - <a href="https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/NPSMDL_WxC.ipynb" target="_blank">Metropolis Sampler</a>
 
 ## Abstract
 
