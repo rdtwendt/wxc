@@ -1,6 +1,6 @@
 # wxc
 
-# WxC Project: Predictive Modeling with Bayesian Inference and MCMC Sampling
+# Atmospheric Prediction with Bayesian Inference and MCMC Sampling
 
 This notebook represents a portion of my Ph.D. research in statistical post-processing of continuous weather variables with Bayesian inference and Markov chain Monte Carlo methods. A principle aim is to establish the utility of the multivariate Bayesian approach to ensemble model output statistics (EMOS) with an adaptive, block-wise variant of the Metropolis algorithm as a computationally economical alternative to traditional ensemble prediction systems (EPS). It may also be used to generate probabilistic forecasts for response variables not represented in the model's predictor variables.
 
