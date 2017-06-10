@@ -1,4 +1,12 @@
 # wxc
-WxC Code
+__WxC Bayesian Prediction__
 
-This code represents my research in predictive modeling with Bayesian multivariate linear regression. A principle aim is to establish Bayesian data analaysis (BDA) and Markov chain Monte Carlo (MCMC) sampling as an economical alternative to traditional ensemble prediction systems (EPS)
+This notebook represents a portion of my Ph.D. research in statistical post-processing of continuous weather variables with Bayesian inference and Markov chain Monte Carlo methods. A principle aim is to establish the utility of the multivariate Bayesian approach to ensemble model output statistics (EMOS) with an adaptive, block-wise variant of the Metropolis algorithm as a computationally economical alternative to traditional ensemble prediction systems (EPS). It may also be used to generate probabilistic forecasts for response variables not represented in the model's predictor variables.
+
+[Full Model Code](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/NPSMDL_WxC.ipynb)
+[Posterior Inference](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/NPSMDL_WxC.ipynb)
+[Metropolis Sampler](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/NPSMDL_WxC.ipynb)
+
+# Abstract
+
+- Ensemble predictions of sensible weather variables often manifest coherent patterns of forecast error. While the numerical weather prediction community has traditionally focused on improvements to upstream model components – that is, the sophistication of various data assimilation schemes, more detailed mathematical descriptions of the governing dynamics, advanced numerics, and improved fidelity in parameterizing subgrid-scale processes via model physics – comparatively little attention has been given to post-processing techniques that diagnose and calibrate systematic forecast errors downstream of the objective guidance. In this way, statistical post-processing exploits correlations between forecasts and their corresponding observations to improve the quality of contemporary predictions. This dissertation will explore the efficacy of existing methods in Bayesian analysis and Markov chain Monte Carlo sampling to produce statistically post-processed forecasts of continuous sensible weather variables in three disparate forecast applications. More specifically, a hierarchical Bayesian multiple linear regression framework will be pursed for multivariate predictions. An adaptive multiparameter variant of the Metropolis algorithm will be used to draw samples from Bayesian posterior distributions of generative model parameters. Posterior predictive distributions (PPD) will subsequently be formed from contemporary ensemble guidance, and evaluated with distributions-oriented scoring rules, to produce reliable and sharp forecast distributions.
