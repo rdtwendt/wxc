@@ -8,11 +8,11 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
 
 ## Jupyter Notebooks
 
-### Current Notebooks
+#### Current:
 
   - [WxC Model Code](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb)
 
-### Deprecated Notebooks
+#### Deprecated:
 
   - [Posterior Inference](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/wxc_theta_post.ipynb)
 
@@ -20,11 +20,11 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
   
 ## Technical Support
 
-### Python Installation
+#### Python Installation
 
 - [Anaconda](https://www.continuum.io/downloads): An Open Platform for Data Science in Python
 
-### Helpful bootstrapping tutorials on Python, important modules, and related coding cookbooks
+#### Helpful bootstrapping tutorials on Python, important modules, and related coding cookbooks
 
 - [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/) via [Thomas Wiecki](https://twitter.com/TWiecki)
 
