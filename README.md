@@ -20,9 +20,9 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
   
 ## Technical Support
 
-#### [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/)
+#### Jupyter Notebooks
 
-- [FAQ](https://nbviewer.jupyter.org/faq)
+- [Notebook Viewer FAQ](https://nbviewer.jupyter.org/faq)
 
 - [Notebook Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
