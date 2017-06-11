@@ -6,7 +6,7 @@
 
 This notebook represents a portion of my Ph.D. research in [statistical post-processing](https://www.weather.gov/mdl/statpp_home) of continuous weather variables with [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference) and [Markov chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) methods. A principle aim is to establish a [hierarchical](https://en.wikipedia.org/wiki/Bayesian_hierarchical_modeling) [multivariate](https://en.wikipedia.org/wiki/Bayesian_multivariate_linear_regression) [Bayesian approach](https://www.nr.no/~thordis/files/Richter2012.pdf) to [ensemble model output statistics](http://journals.ametsoc.org/doi/pdf/10.1175/MWR2904.1) (EMOS) with an [adaptive](http://probability.ca/jeff/ftpdir/adaptex.pdf), [block-wise](https://theclevermachine.wordpress.com/2012/11/04/mcmc-multivariate-distributions-block-wise-component-wise-updates/) variant of the [Metropolis algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) as a computationally economical alternative to traditional ensemble prediction systems (EPS). It may also be used to generate probabilistic forecasts for response variables not represented in the model's [covariates](https://en.wikipedia.org/wiki/Covariate).
 
-## Jupyter Notebooks
+## Project Notebooks
 
 #### Current
 
