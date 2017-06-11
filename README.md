@@ -10,13 +10,13 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
 
 #### Current
 
-  - WxC Model Code: [HTML](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb) [Download](https://raw.githubusercontent.com/rdtwendt/wxc/master/notebooks/NPSMDL_WxC.ipynb)
+  - [WxC Model Code](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb)
 
 #### Deprecated
 
-  - Posterior Inference: [HTML](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/wxc_theta_post.ipynb)
+  - [Posterior Inference](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/wxc_theta_post.ipynb)
 
-  - Metropolis Sampler: [HTML](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/mcmc_arcn_chain_0.ipynb)
+  - [Metropolis Sampler](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/mcmc_arcn_chain_0.ipynb)
   
 ## Technical Support
 
