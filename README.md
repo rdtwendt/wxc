@@ -20,6 +20,12 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
   
 ## Technical Support
 
+#### Jupyter Notebook Viewer
+
+- [FAQ](https://nbviewer.jupyter.org/faq)
+
+- [Notebook Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+
 #### Python Installation
 
 - [Anaconda](https://www.continuum.io/downloads): An Open Platform for Data Science in Python
