@@ -10,9 +10,9 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
 
 ### Deprecated Notebooks
 
-  - <a href="https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/NPSMDL_WxC.ipynb" target="_blank">Posterior Inference</a>
+  - <a href="https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/wxc_theta_post.ipynb" target="_blank">Posterior Inference</a>
 
-  - <a href="https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/NPSMDL_WxC.ipynb" target="_blank">Metropolis Sampler</a>
+  - <a href="https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/mcmc_arcn_chain_0.ipynb" target="_blank">Metropolis Sampler</a>
 
 ## Abstract
 
