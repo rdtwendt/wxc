@@ -14,9 +14,9 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
 
 ### Deprecated:
 
-#### Posterior Inference [HTML](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/wxc_theta_post.ipynb)
+- Posterior Inference [[HTML](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/wxc_theta_post.ipynb)]
 
-#### Metropolis Sampler [HTML](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/mcmc_arcn_chain_0.ipynb)
+- Metropolis Sampler [[HTML](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/mcmc_arcn_chain_0.ipynb)]
   
 ## Technical Support
 
