@@ -10,8 +10,8 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
 
 ### Current:
 
- - [Full Model Code](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb) [[Download Zip](https://github.com/rdtwendt/wxc/archive/master.zip) or [Clone](x-github-client://openRepo/https://github.com/rdtwendt/wxc)]
-
+ - [Full Model Code](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb) [[Download Zip](https://github.com/rdtwendt/wxc/archive/master.zip)][[Clone](x-github-client://openRepo/https://github.com/rdtwendt/wxc)]
+ 
 ### Deprecated:
 
 - Posterior Inference [[HTML](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/wxc_theta_post.ipynb)]
