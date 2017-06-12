@@ -4,13 +4,13 @@
 
 ## Atmospheric Prediction with Bayesian Inference and MCMC Sampling
 
-This notebook represents a portion of my Ph.D. research in [statistical post-processing](https://www.weather.gov/mdl/statpp_home) of continuous weather variables with [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference) and [Markov chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) methods. A principle aim is to establish a [hierarchical](https://en.wikipedia.org/wiki/Bayesian_hierarchical_modeling) [multivariate](https://en.wikipedia.org/wiki/Bayesian_multivariate_linear_regression) [Bayesian approach](https://www.nr.no/~thordis/files/Richter2012.pdf) to [ensemble model output statistics](http://journals.ametsoc.org/doi/pdf/10.1175/MWR2904.1) (EMOS) with an [adaptive](http://probability.ca/jeff/ftpdir/adaptex.pdf), [block-wise](https://theclevermachine.wordpress.com/2012/11/04/mcmc-multivariate-distributions-block-wise-component-wise-updates/) variant of the [Metropolis algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) as a computationally economical alternative to traditional ensemble prediction systems (EPS). It may also be used to generate probabilistic forecasts for response variables not represented in the model's [covariates](https://en.wikipedia.org/wiki/Covariate).
+This notebook represents a portion of my Ph.D. research in [statistical post-processing](https://www.weather.gov/mdl/statpp_home) with [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference) and [Markov chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) sampling methods. A principal aim of this research is the development of a computationally economical alternative to traditional ensemble prediction systems (EPS) with a [hierarchical](https://en.wikipedia.org/wiki/Bayesian_hierarchical_modeling) [multivariate](https://en.wikipedia.org/wiki/Bayesian_multivariate_linear_regression) Bayesian approach to [ensemble model output statistics](http://journals.ametsoc.org/doi/pdf/10.1175/MWR2904.1) - that is, [BEMOS](https://www.nr.no/~thordis/files/Richter2012.pdf) - when paired with an [adaptive](http://probability.ca/jeff/ftpdir/adaptex.pdf) variant of the [Metropolis algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) using [block-wise](https://theclevermachine.wordpress.com/2012/11/04/mcmc-multivariate-distributions-block-wise-component-wise-updates/) multidimensional parameter updates. It may also be used to generate probabilistic forecasts for response variables not represented in the model's [covariates](https://en.wikipedia.org/wiki/Covariate) (e.g., [surface spectral reflectance](https://modis.gsfc.nasa.gov/data/dataprod/mod09.php) inferred from model fields for [low-cloud fraction](https://en.wikipedia.org/wiki/Cloud_fraction), [relative humidity](https://en.wikipedia.org/wiki/Relative_humidity), and [$\omega$](https://en.wikipedia.org/wiki/Omega_equation) via [NowCast](https://github.com/rdtwendt/nowcast)).
 
 ## Project Notebooks
 
 #### Current
 
-  - [WxC Model Code](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb)
+  - [Full Model Code](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb)
 
 #### Deprecated
 
@@ -20,15 +20,17 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
   
 ## Technical Support
 
-#### Jupyter Notebooks
-
-- [Notebook Viewer](https://nbviewer.jupyter.org/) ([FAQ](https://nbviewer.jupyter.org/faq))
-
-- [Notebook Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
-
 #### Python Installation
 
 - [Anaconda](https://www.continuum.io/downloads): An Open Platform for Data Science in Python
+
+#### Jupyter Notebooks
+
+- [Jupyter](http://jupyter.org/)
+
+- [Notebook Viewer](https://nbviewer.jupyter.org/)
+
+- [Notebook Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 #### Helpful bootstrapping tutorials on Python, important modules, and related coding cookbooks
 
