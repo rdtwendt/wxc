@@ -32,7 +32,7 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
 
 - [Notebook Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
-#### Helpful bootstrapping tutorials on Python, important modules, and related coding cookbooks:
+#### Bootstrapping tutorials on Python, important modules, and related coding cookbooks:
 
 - [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/) via [Thomas Wiecki](https://twitter.com/TWiecki)
 
