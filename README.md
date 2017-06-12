@@ -10,7 +10,7 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
 
 ### Current:
 
- - [WxC NPS BEMOS](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb) ([ZIP](https://github.com/rdtwendt/wxc/archive/master.zip))
+ - [WxC NPS BEMOS](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb) [[ZIP](https://github.com/rdtwendt/wxc/archive/master.zip)]
  
 ### Deprecated:
 
