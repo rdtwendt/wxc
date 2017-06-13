@@ -1,6 +1,6 @@
 # wxc
 
-<a href="https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb"><img src="https://dl.dropboxusercontent.com/u/88590382/html_pics/wxc_splash.jpg" style="width:600x"></a>
+<a href="https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb"><img src="http://i.imgur.com/oDscDPz.jpg" style="width:600x"></a>
 
 ## A Hierarchical Multivariate Bayesian Approach to Ensemble Model Output Statistics in Atmospheric Prediction
 
