@@ -8,7 +8,7 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
 
 ## Project Notebooks
 
-#### Current:
+#### Current Model Code:
 
  - [WxC BEMOS](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb) [[ZIP](https://github.com/rdtwendt/wxc/archive/master.zip)]
  
@@ -18,21 +18,19 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
 
 - [Metropolis Sampler](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/mcmc_arcn_chain_0.ipynb)
   
-## Technical Support
+### Technical Support:
 
-#### Python Installation:
+#### Python Installation
 
 - [Anaconda](https://www.continuum.io/downloads): An Open Platform for Data Science in Python
 
-#### Jupyter Notebooks:
-
-- [Jupyter](http://jupyter.org/)
+#### Jupyter Notebooks
 
 - [Notebook Viewer](https://nbviewer.jupyter.org/)
 
 - [Notebook Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
-#### Bootstrapping tutorials on Python, important modules, and related coding cookbooks:
+#### Bootstrapping tutorials on Python, important modules, and related coding cookbooks
 
 - [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/) via [Thomas Wiecki](https://twitter.com/TWiecki)
 
