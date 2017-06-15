@@ -12,7 +12,7 @@ This notebook represents a portion of my Ph.D. research in [statistical post-pro
 
  - [WxC BEMOS](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/NPSMDL_WxC.ipynb) [[ZIP](https://github.com/rdtwendt/wxc/archive/master.zip)]
  
-#### Deprecated:
+#### Deprecated Code:
 
 - [Posterior Inference](https://nbviewer.jupyter.org/github/rdtwendt/wxc/blob/master/notebooks/wxc_theta_post.ipynb)
 
